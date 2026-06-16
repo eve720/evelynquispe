@@ -14,4 +14,6 @@
 
 ## Onde estou
 - São Paulo, Brasil
+
+---
 Sou iniciante em programação e estou estudando muito para crescer na área!
