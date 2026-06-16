@@ -25,4 +25,4 @@
 - São Paulo - SP, Brasil
 
 ---
-Sou iniciante em programação e estou estudando muito para crescer na área!
+Sou iniciante em programação e estou estudando muito para crescer na área.
