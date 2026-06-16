@@ -11,7 +11,12 @@
 - PHP
 - MySQL (Banco de dados)
 
-## O que quero
+## Áreas de interesse
+- Desenvolvimento Front-end
+- Desenvolvimento Mobile
+- Desenvolvimento Web
+
+## Objetivos Profissionais
 - Entrar na área de tecnologia
 - Ser desenvolvedora
 - Aprender continuamente e crescer profissionalmente
