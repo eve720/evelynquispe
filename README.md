@@ -22,7 +22,7 @@
 - Aprender continuamente e crescer profissionalmente
 
 ## Onde estou
-- São Paulo, Brasil
+- São Paulo - SP, Brasil
 
 ---
 Sou iniciante em programação e estou estudando muito para crescer na área!
