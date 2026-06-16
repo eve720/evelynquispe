@@ -7,10 +7,14 @@
 - HTML
 - CSS
 - JavaScript
+- Flutter
+- PHP
+- MySQL (Banco de dados)
 
 ## O que quero
 - Entrar na área de tecnologia
 - Ser desenvolvedora
+- Aprender continuamente e crescer profissionalmente
 
 ## Onde estou
 - São Paulo, Brasil
