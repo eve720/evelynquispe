@@ -13,14 +13,17 @@ Meu objetivo é conquistar minha primeira oportunidade em tecnologia e crescer p
 📍 São Paulo - SP, Brasil
 
 ---
+
 ## 🤖 Tecnologias que estou aprendendo
 
-> 🧩 HTML  
-> 🎨 CSS  
-> ⚙️ JavaScript  
-> 📱 Flutter  
-> 🐘 PHP  
-> 🗄️ MySQL  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40px" title="Flutter" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" title="PHP" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL" style="padding-right:10px;" />
+</p>
 
 ---
 
